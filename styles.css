@@ -27,7 +27,7 @@ a {
 }
 
 a[href="index.html"] {
-    1 color: white;
+    color: white;
 }
 
 a:hover {
@@ -46,7 +46,7 @@ span {
 /*CONTACT PAGE*/
 #contact {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3));
-    background: url(background.jpg);
+    background: url(background_2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
