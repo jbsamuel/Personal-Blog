@@ -1,6 +1,15 @@
-/* header {
+nav {
     text-align: center;
-} */
+}
+
+nav ul {
+    list-style: none;
+}
+
+header {
+    text-align: center;
+}
+
 a {
     text-decoration: none;
 }
@@ -16,4 +25,20 @@ p {
 
 span {
     font-weight: bold;
+}
+
+#contact {
+    text-align: center;
+}
+
+#name {
+    margin-right: 25px;
+}
+
+#msg {
+    margin-top: 15px;
+}
+
+button {
+    margin-top: 5px;
 }
