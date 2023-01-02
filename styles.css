@@ -1,0 +1,46 @@
+/*MAIN PAGE*/
+nav {
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+header {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+p {
+    font-weight: bold;
+}
+
+span {
+    font-weight: bold;
+}
+
+/*CONTACT PAGE*/
+#contact {
+    text-align: center;
+}
+
+#name {
+    margin-right: 25px;
+}
+
+#msg {
+    margin-top: 15px;
+}
+
+button {
+    margin-top: 5px;
+}
