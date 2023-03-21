@@ -1,13 +1,18 @@
 # 					**Online Java  Resources**
 
-## Programming Fundamentals
+## <u>Programming Fundamentals</u>
 
-### Objects and Classes
+1. ### Object Oriented Programming (OOP)
 
-<ul>
-    <li>https://www.youtube.com/watch?v=IUqKuGNasdM</li>
-    <li></li>
-</ul>
+   [Basics](https://www.youtube.com/watch?v=1ONhXmQuWP8)
+
+   
+
+   #### Objects and Classes
+
+   - #### https://www.youtube.com/watch?v=IUqKuGNasdM
+
+2. ### Arrays and ArrayLists
 
 
 
