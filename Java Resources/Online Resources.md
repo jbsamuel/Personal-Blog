@@ -4,6 +4,11 @@
 ## Practice
 [CodingBat](https://codingbat.com/java)
 
+## Design
+[UML Use Case Diagram](https://www.youtube.com/watch?v=zid-MVo7M-E)
+[UML Class Diagram](https://www.youtube.com/watch?v=UI6lqHOVHic)
+
+
 ## <u>Programming Fundamentals</u>
 
 1. ### Object Oriented Programming (OOP)
