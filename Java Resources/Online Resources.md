@@ -5,6 +5,7 @@
 [CodingBat](https://codingbat.com/java)
 
 ## Design
+[UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
 [UML Use Case Diagram](https://www.youtube.com/watch?v=zid-MVo7M-E)
 [UML Class Diagram](https://www.youtube.com/watch?v=UI6lqHOVHic)
 
