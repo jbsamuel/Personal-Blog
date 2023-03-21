@@ -1,4 +1,8 @@
-# 					**Online Java  Resources**
+# 					**Online Java  Resources** 
+# 					 (Updated: March 2023)
+
+## Practice
+[CodingBat](https://codingbat.com/java)
 
 ## <u>Programming Fundamentals</u>
 
@@ -12,13 +16,15 @@
 
    - #### https://www.youtube.com/watch?v=IUqKuGNasdM
 
-2. ### Arrays and ArrayLists
+1. ### Arrays and ArrayLists
 
 
 
 ## YouTube Playlists
 
 [Keep on Coding](https://www.youtube.com/playlist?list=PLuVT2Ug8ISOUeumoUczDqraT_EO6qFdWt)
+
+
 
 
 
