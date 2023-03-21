@@ -23,6 +23,7 @@
    - #### https://www.youtube.com/watch?v=IUqKuGNasdM
 
 1. ### Arrays and ArrayLists
+   - #### https://www.youtube.com/watch?v=NbYgm0r7u6o
 
 
 
