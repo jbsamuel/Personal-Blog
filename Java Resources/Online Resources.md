@@ -2,6 +2,7 @@
 # 					 (Updated: March 2023)
 
 ## Practice
+[Java Code Style Guidelines](https://www.cs.cornell.edu/courses/JavaAndDS/JavaStyle.html#Indentation)
 [CodingBat](https://codingbat.com/java)
 
 ## Design
@@ -29,6 +30,10 @@
 
 ## <u>Programming Fundamentals+</u>
 
+#### Data Structures and Algorithms
+  - #### https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm
+  - #### https://www.geeksforgeeks.org/data-structures/?ref=shm
+  - #### https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm
 
 ## YouTube Playlists
 
