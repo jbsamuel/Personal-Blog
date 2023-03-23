@@ -1,16 +1,5 @@
 # 					**Java  Resources** 
 
-## Practice
-[Java Code Style Guidelines](https://www.cs.cornell.edu/courses/JavaAndDS/JavaStyle.html#Indentation)  
-[CodingBat](https://codingbat.com/java)
-
-## Design
-[Design Patterns in Plain English](https://www.youtube.com/watch?v=NU_1StN5Tkk)  
-[UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc)  
-[UML Use Case Diagram](https://www.youtube.com/watch?v=zid-MVo7M-E)  
-[UML Class Diagram](https://www.youtube.com/watch?v=UI6lqHOVHic)  
-
-
 ## <u>Programming Fundamentals</u>
 
 1. ### Object Oriented Programming (OOP)
@@ -38,6 +27,15 @@
 
 [Keep on Coding](https://www.youtube.com/playlist?list=PLuVT2Ug8ISOUeumoUczDqraT_EO6qFdWt)
 
+## Practice
+[Java Code Style Guidelines](https://www.cs.cornell.edu/courses/JavaAndDS/JavaStyle.html#Indentation)  
+[CodingBat](https://codingbat.com/java)
+
+## Design
+[Design Patterns in Plain English](https://www.youtube.com/watch?v=NU_1StN5Tkk)  
+[UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc)  
+[UML Use Case Diagram](https://www.youtube.com/watch?v=zid-MVo7M-E)  
+[UML Class Diagram](https://www.youtube.com/watch?v=UI6lqHOVHic)  
 
 
 
