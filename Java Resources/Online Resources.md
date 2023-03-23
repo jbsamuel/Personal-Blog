@@ -6,10 +6,10 @@
 [CodingBat](https://codingbat.com/java)
 
 ## Design
-[Design Patterns in Plain English](https://www.youtube.com/watch?v=NU_1StN5Tkk)
-[UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
-[UML Use Case Diagram](https://www.youtube.com/watch?v=zid-MVo7M-E)
-[UML Class Diagram](https://www.youtube.com/watch?v=UI6lqHOVHic)
+[Design Patterns in Plain English](https://www.youtube.com/watch?v=NU_1StN5Tkk)  
+[UML Diagrams](https://www.youtube.com/watch?v=WnMQ8HlmeXc)  
+[UML Use Case Diagram](https://www.youtube.com/watch?v=zid-MVo7M-E)  
+[UML Class Diagram](https://www.youtube.com/watch?v=UI6lqHOVHic)  
 
 
 ## <u>Programming Fundamentals</u>
