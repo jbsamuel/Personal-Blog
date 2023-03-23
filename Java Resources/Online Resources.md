@@ -2,7 +2,7 @@
 # 					 (Updated: March 2023)
 
 ## Practice
-[Java Code Style Guidelines](https://www.cs.cornell.edu/courses/JavaAndDS/JavaStyle.html#Indentation)
+[Java Code Style Guidelines](https://www.cs.cornell.edu/courses/JavaAndDS/JavaStyle.html#Indentation)  
 [CodingBat](https://codingbat.com/java)
 
 ## Design
