@@ -1,4 +1,4 @@
-# 					**Online Java  Resources** 
+# 					**Java  Resources** 
 
 ## Practice
 [Java Code Style Guidelines](https://www.cs.cornell.edu/courses/JavaAndDS/JavaStyle.html#Indentation)  
