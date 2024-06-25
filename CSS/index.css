@@ -4,10 +4,15 @@ main {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    border: 1px solid black;
     height: 100vh;
 }
 
 .fa-gears {
     font-size: 100px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: xx-large;
 }
