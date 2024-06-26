@@ -1,18 +1,18 @@
-main {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    height: 100vh;
+@import url(navbar.css);
+@import url(footer.css);
+
+body {
+    background-color: #112D33;
+    color: #A3C3CA;
+    ;
 }
 
-.fa-gears {
-    font-size: 100px;
+main {}
+
+article {
+    border: 1px solid purple;
 }
 
 p {
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bolder;
-    font-size: xx-large;
+    color: #1C2530;
 }
