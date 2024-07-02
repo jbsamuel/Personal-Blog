@@ -6,6 +6,7 @@ body {
     border: 1px solid orange;
 }
 
+/* LAYOUT */
 .content-container {
     display: grid;
     height: 100%;
@@ -17,6 +18,7 @@ body {
         "ft ft ft";
 }
 
+/* NAVIGATION */
 header {
     grid-area: hd;
     display: flex;
@@ -25,19 +27,21 @@ header {
     border: 1px solid purple;
 }
 
+
 .nav-links {
     display: flex;
     list-style-type: none;
+
 }
 
 .nav-links li {
     padding-right: 10px;
 }
 
+/* MAIN */
 .blogposts {
     grid-area: mn;
     border: 1px solid white;
-
 }
 
 footer {
