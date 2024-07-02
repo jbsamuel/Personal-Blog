@@ -1,48 +1,46 @@
-@import url(navbar.css);
-@import url(footer.css);
-
 body {
+    margin: 0;
+    height: 100vh;
     background-color: #112D33;
     color: #A3C3CA;
-    border: 1px solid lightblue;
+    border: 1px solid orange;
 }
 
 .content-container {
-    border: 1px solid yellow;
     display: grid;
-    grid-template-rows: 60px 100px 20px;
+    height: 100%;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 60px 1fr 60px;
     grid-template-areas:
-        "hd hd hd hd hd "
-        "main main main main"
-        "ft ft ft ft";
+        "hd hd hd"
+        "mn mn mn"
+        "ft ft ft";
 }
-
 
 header {
     grid-area: hd;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid purple;
 }
 
-main {
-    /* display: flex; */
-    grid-area: main;
+.nav-links {
+    display: flex;
+    list-style-type: none;
+}
+
+.nav-links li {
+    padding-right: 10px;
+}
+
+.blogposts {
+    grid-area: mn;
+    border: 1px solid white;
+
 }
 
 footer {
     grid-area: ft;
-    text-align: center;
-    border: 1px solid whitesmoke;
-}
-
-
-
-.blogposts {
-    border: 1px solid purple;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-
-}
-
-p {
-    color: ;
+    border: 1px solid pink;
 }
