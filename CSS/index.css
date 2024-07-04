@@ -21,24 +21,30 @@ body {
 /* NAVIGATION */
 header {
     grid-area: hd;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
     border: 1px solid purple;
 }
 
-
-.nav-links {
+nav {
     display: flex;
-    list-style-type: none;
+    flex-direction: row;
 
 }
 
+/* 
 .nav-links li {
     padding-right: 10px;
 }
 
+#leftnav {
+    justify-self: flex-start;
+} */
+
 /* MAIN */
+/* main{
+    display: flex;
+    flex-direction: column;
+    gap: 10px
+} */
 .blogposts {
     grid-area: mn;
     border: 1px solid white;
