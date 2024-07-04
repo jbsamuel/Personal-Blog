@@ -1,6 +1,6 @@
 body {
-    margin: 0;
-    height: 100vh;
+    margin: 0;                                                                                                                                                                                                                                                                                   
+    height: 100vh;  
     background-color: #112D33;
     color: #A3C3CA;
     border: 1px solid orange;
@@ -17,6 +17,7 @@ body {
         "mn mn mn"
         "ft ft ft";
 }
+
 
 /* NAVIGATION */
 header {
@@ -39,11 +40,16 @@ header {
 }
 
 /* MAIN */
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
 .blogposts {
     grid-area: mn;
     border: 1px solid white;
 }
-
 footer {
     grid-area: ft;
     border: 1px solid pink;
