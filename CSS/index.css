@@ -1,6 +1,8 @@
+@import url(navbar.css);
+
 body {
-    margin: 0;                                                                                                                                                                                                                                                                                   
-    height: 100vh;  
+    margin: 0;
+    height: 100vh;
     background-color: #112D33;
     color: #A3C3CA;
     border: 1px solid orange;
@@ -10,33 +12,12 @@ body {
 .content-container {
     display: grid;
     height: 100%;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: 1fr;
     grid-template-rows: 60px 1fr 60px;
     grid-template-areas:
-        "hd hd hd"
-        "mn mn mn"
-        "ft ft ft";
-}
-
-
-/* NAVIGATION */
-header {
-    grid-area: hd;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    border: 1px solid purple;
-}
-
-
-.nav-links {
-    display: flex;
-    list-style-type: none;
-
-}
-
-.nav-links li {
-    padding-right: 10px;
+        "hd"
+        "mn"
+        "ft";
 }
 
 /* MAIN */
@@ -48,9 +29,18 @@ main {
 
 .blogposts {
     grid-area: mn;
+    width: 200px;
+    height: 200px;
     border: 1px solid white;
 }
+
+/* footer */
+
 footer {
     grid-area: ft;
     border: 1px solid pink;
+}
+
+@media screen {
+    
 }
