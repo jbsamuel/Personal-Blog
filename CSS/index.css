@@ -3,9 +3,9 @@
 body {
     margin: 0;
     height: 100vh;
-    background-color: #112D33;
-    color: #A3C3CA;
-    border: 1px solid orange;
+    /* background-color: #112D33;
+    color: #A3C3CA; */
+    border: 1px solid hotpink;
 }
 
 /* LAYOUT */
@@ -18,20 +18,24 @@ body {
         "hd"
         "mn"
         "ft";
+    border: 1px solid rgb(56, 245, 56);
 }
 
 /* MAIN */
 main {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 20px;
+    gap: 10px;
+    
 }
 
 .blogposts {
     grid-area: mn;
     width: 200px;
-    height: 200px;
-    border: 1px solid white;
+    height: 500px;
+    border: 1px solid black;
 }
 
 /* footer */
@@ -39,6 +43,9 @@ main {
 footer {
     grid-area: ft;
     border: 1px solid pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 @media screen {
