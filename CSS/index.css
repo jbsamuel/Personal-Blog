@@ -2,9 +2,9 @@
 
 body {
     margin: 0;
-    height: 100vh;
-    /* background-color: #112D33;
-    color: #A3C3CA; */
+    height: 1080vh;
+    background-color: #112D33;
+    color: #A3C3CA;
     border: 1px solid hotpink;
 }
 
@@ -19,6 +19,7 @@ body {
         "mn"
         "ft";
     border: 1px solid rgb(56, 245, 56);
+
 }
 
 /* MAIN */
@@ -28,14 +29,13 @@ main {
     align-items: center;
     padding-left: 20px;
     gap: 10px;
-    
 }
 
 .blogposts {
     grid-area: mn;
     width: 200px;
     height: 500px;
-    border: 1px solid black;
+    border: 1px solid white;
 }
 
 /* footer */
@@ -48,6 +48,16 @@ footer {
     justify-content: center;
 }
 
-@media screen {
-    
+@media (min-width: 600px) and (max-width:900px) {
+    .content-container {
+        display: grid;
+        height: 100%;
+        grid-template-columns: 1fr;
+        grid-template-rows: 60px 1fr 60px;
+        grid-template-areas:
+            "hd"
+            "mn"
+            "ft";
+        border: 1px solid rgb(56, 245, 56);
+    }
 }
