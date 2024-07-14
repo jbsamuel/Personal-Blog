@@ -22,18 +22,7 @@ body {
 
 }
 
-#leftnav {
-    justify-self: flex-start;
-}
-
-*/
-
 /* MAIN */
-/* main{
-    display: flex;
-    flex-direction: column;
-    gap: 10px
-} */
 main {
     display: flex;
     flex-direction: row;
